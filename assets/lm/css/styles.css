@@ -1,0 +1,27 @@
+.btn-login {
+  background-color: #ef5350;
+  border-color: #ef5350;
+}
+
+.form-control:focus {
+  border: 1px solid #ef5350;
+  box-shadow: inset 0px 0px 0px 1px #ef5350;
+}
+
+.btn-primary:hover {
+  background-color: #ef5350;
+  border-color: #ef5350;
+  box-shadow: inset 0px 0px 0px 1px #ef5350
+}
+
+.btn-primary:active {
+  background-color: #ef5350;
+  border-color: #ef5350;
+  box-shadow: inset 0px 0px 0px 1px #ef5350
+}
+
+.btn-primary:focus {
+  background-color: #ef5350;
+  border-color: #ef5350;
+  box-shadow: inset 0px 0px 0px 1px #ef5350
+}
